@@ -2,25 +2,23 @@
     <p align="left">
     I am a full-stack Web Developer with experience in web applications and back-end systems, using a variety of coding languages, frameworks, and technologies. I am self-motivated and passionate about programming, from designing system architecture to diving deep into frameworks and problem-solving.
     
-    In my spare time, I am mostly adding new skills to my repertoire and sometimes open-sourcing.
-    </p>
-    <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" >
+ In my spare time, I am mostly adding new skills to my repertoire and sometimes open-sourcing.
+ </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" >
     
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=neelpatel5270&label=Profile%20views&color=0e75b6&style=flat" alt="neelpatel5270" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=neelpatel5270&label=Profile%20views&color=0e75b6&style=flat" alt="neelpatel5270" /> </p>
     
-    - 🌱 I’m currently learning **Node.js**
+ 🌱 I’m currently learning **Node.js**
     
-    <!-- - 👨‍💻 All of my projects are available at [aknayani.com](aknayani.com) -->
+ <!-- - 👨‍💻 All of my projects are available at [aknayani.com](aknayani.com) -->
     
-    - 📫 How to reach me **neelpatel19726@gmail.com**
+📫 How to reach me **neelpatel19726@gmail.com**
     
-    <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
     <p align="left">
-    <a href="https://www.linkedin.com/in/neel-patel-9bb90a21a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neel" height="30" width="40" /></a>
-    <!-- <a href="https://codeforces.com/profile/akshaynayani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="akshaynayani" height="30" width="40" /></a> -->
-    </p>
+    <a href="https://www.linkedin.com/in/neel-patel-9bb90a21a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neel" height="30" width="40" /></a> </p>
     
-    <h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
     <p align="left">
         <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -58,8 +56,8 @@
     </p>
     
     
-    ![Utsav Shah GitHub Statistics](https://github-readme-stats.vercel.app/api?username=neelpatel5270&show_icons=true&theme=tokyonight&locale=en)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Utsav0701&hide=Jupyter%20Notebook&show_icons=true&langs_count=8&theme=tokyonight&locale=en&layout=compact) 
-    ![Utsav Shah GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neelpatel5270&theme=dark) 
+ ![Utsav Shah GitHub Statistics](https://github-readme-stats.vercel.app/api?username=neelpatel5270&show_icons=true&theme=tokyonight&locale=en)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neelpatel5270&hide=Jupyter%20Notebook&show_icons=true&langs_count=8&theme=tokyonight&locale=en&layout=compact) 
+ ![Utsav Shah GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neelpatel5270&theme=dark) 
     
     
     
